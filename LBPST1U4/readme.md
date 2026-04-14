@@ -2,7 +2,7 @@
 
 ## Descripción
 Laboratorio de ensamblador NASM con uso de segmentos, datos y salida en DOS.
-
+ 
 ## Prerrequisitos
 - DOSBox
 - NASM
