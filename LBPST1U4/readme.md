@@ -7,7 +7,7 @@ Laboratorio de ensamblador NASM con uso de segmentos, datos y salida en DOS.
 - DOSBox
 - NASM
 - ALINK
-
+ 
 ## Compilación
 nasm -f obj programa.asm -o programa.obj
 
